@@ -7,7 +7,25 @@
 		<key>AI-Pet-App.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>37</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>179686FC29627692002BAE79</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1796871529627694002BAE79</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1796871F29627694002BAE79</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

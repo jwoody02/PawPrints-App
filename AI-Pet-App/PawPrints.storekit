@@ -1,0 +1,50 @@
+{
+  "identifier" : "BF2B9460",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6445356976",
+      "localizations" : [
+        {
+          "description" : "Large pack size of images",
+          "displayName" : "Full Pack (30 images)",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "pawprintsai.largepack",
+      "referenceName" : "Large Image Pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6445356840",
+      "localizations" : [
+        {
+          "description" : "A smaller pack for you to dip your toes",
+          "displayName" : "Sample Pack (6 images)",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "pawprintsai.smallpack",
+      "referenceName" : "Small Image Pack",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1664297017",
+    "_developerTeamID" : "4SSQ3NUFVX",
+    "_lastSynchronizedDate" : 695795359.23020995
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

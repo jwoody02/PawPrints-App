@@ -7,9 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F293CD2C48253300D1546F0 /* Pods_AI_Pet_App_AI_Pet_AppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BDAC455EDF3C434719C3B6D /* Pods_AI_Pet_App_AI_Pet_AppUITests.framework */; };
+		1746A30629786C9A006DF4EF /* bad_1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 1746A30529786C9A006DF4EF /* bad_1.tiff */; };
+		1746A30829786CCB006DF4EF /* good_2.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 1746A30729786CCB006DF4EF /* good_2.tiff */; };
+		1746A30C29786D23006DF4EF /* good_3.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 1746A30B29786D23006DF4EF /* good_3.tiff */; };
+		1746A30E29786D33006DF4EF /* good_4.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 1746A30D29786D33006DF4EF /* good_4.tiff */; };
+		1746A314297874F8006DF4EF /* good_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 1746A313297874F8006DF4EF /* good_6.png */; };
+		1746A3162978ADB3006DF4EF /* good_7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1746A3152978ADB2006DF4EF /* good_7.jpeg */; };
+		1746A31A2978FE88006DF4EF /* PawPrints.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 1746A3192978FE88006DF4EF /* PawPrints.storekit */; };
+		175DEEAF297BA9620083FFFE /* cosmothegoat.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 175DEEAE297BA9620083FFFE /* cosmothegoat.JPG */; };
+		178ECC4B296E59BE00171673 /* OrderTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 178ECC4A296E59BE00171673 /* OrderTableViewCell.xib */; };
+		178ECC4D296E5E1E00171673 /* IMG_0892.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 178ECC4C296E5E1E00171673 /* IMG_0892.tiff */; };
+		178ECC4F296E659400171673 /* IMG_3580.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 178ECC4E296E659400171673 /* IMG_3580.tiff */; };
+		178ECC51296E68FD00171673 /* StepBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECC50296E68FD00171673 /* StepBar.swift */; };
 		1796870129627692002BAE79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796870029627692002BAE79 /* AppDelegate.swift */; };
 		1796870329627692002BAE79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796870229627692002BAE79 /* SceneDelegate.swift */; };
-		1796870529627692002BAE79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796870429627692002BAE79 /* ViewController.swift */; };
 		1796870829627692002BAE79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1796870629627692002BAE79 /* Main.storyboard */; };
 		1796870B29627692002BAE79 /* AI_Pet_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1796870929627692002BAE79 /* AI_Pet_App.xcdatamodeld */; };
 		1796870D29627694002BAE79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1796870C29627694002BAE79 /* Assets.xcassets */; };
@@ -17,6 +29,43 @@
 		1796871B29627694002BAE79 /* AI_Pet_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796871A29627694002BAE79 /* AI_Pet_AppTests.swift */; };
 		1796872529627694002BAE79 /* AI_Pet_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796872429627694002BAE79 /* AI_Pet_AppUITests.swift */; };
 		1796872729627694002BAE79 /* AI_Pet_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796872629627694002BAE79 /* AI_Pet_AppUITestsLaunchTests.swift */; };
+		17968737296282CC002BAE79 /* Packs.png in Resources */ = {isa = PBXBuildFile; fileRef = 17968734296282CB002BAE79 /* Packs.png */; };
+		17968738296282CC002BAE79 /* pawdprint.png in Resources */ = {isa = PBXBuildFile; fileRef = 17968735296282CB002BAE79 /* pawdprint.png */; };
+		17968739296282CC002BAE79 /* YourGallery.png in Resources */ = {isa = PBXBuildFile; fileRef = 17968736296282CB002BAE79 /* YourGallery.png */; };
+		1796873C29628771002BAE79 /* UIExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796873B29628771002BAE79 /* UIExtensions.swift */; };
+		1796874F29629F15002BAE79 /* small_paw_filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 1796874C29629F15002BAE79 /* small_paw_filled.png */; };
+		1796875029629F15002BAE79 /* small_paw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1796874D29629F15002BAE79 /* small_paw.png */; };
+		1796875829629F4E002BAE79 /* Autolayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875229629F4E002BAE79 /* Autolayout.swift */; };
+		1796875929629F4E002BAE79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875329629F4E002BAE79 /* ViewController.swift */; };
+		1796875A29629F4E002BAE79 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875429629F4E002BAE79 /* BaseViewController.swift */; };
+		1796875B29629F4E002BAE79 /* PushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875529629F4E002BAE79 /* PushViewController.swift */; };
+		1796875C29629F4E002BAE79 /* FloatingBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875629629F4E002BAE79 /* FloatingBarView.swift */; };
+		1796875D29629F4E002BAE79 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875729629F4E002BAE79 /* TabBarController.swift */; };
+		1796876129632889002BAE79 /* UIWindow+DebugStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796875F29632889002BAE79 /* UIWindow+DebugStyle.swift */; };
+		1796876229632889002BAE79 /* UIView+DebugStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796876029632889002BAE79 /* UIView+DebugStyle.swift */; };
+		1796876529632952002BAE79 /* LimitedPack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796876429632952002BAE79 /* LimitedPack.swift */; };
+		1796876729632959002BAE79 /* VarietyPack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796876629632959002BAE79 /* VarietyPack.swift */; };
+		17968769296329CB002BAE79 /* AIResultImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17968768296329CB002BAE79 /* AIResultImage.swift */; };
+		1796876B29632A0F002BAE79 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796876A29632A0F002BAE79 /* Order.swift */; };
+		17AB1D4F29632D210079DE61 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D4E29632D210079DE61 /* SearchViewController.swift */; };
+		17AB1D5129632D2A0079DE61 /* OrdersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D5029632D2A0079DE61 /* OrdersViewController.swift */; };
+		17AB1D5329632D350079DE61 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D5229632D350079DE61 /* SettingsViewController.swift */; };
+		17AB1D5529632D3F0079DE61 /* PackViewerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D5429632D3F0079DE61 /* PackViewerViewController.swift */; };
+		17AB1D5729632D480079DE61 /* OrderViewerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D5629632D480079DE61 /* OrderViewerViewController.swift */; };
+		17AB1D5A296330720079DE61 /* OrderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D59296330720079DE61 /* OrderTableViewCell.swift */; };
+		17AB1D5C2963307E0079DE61 /* LimitedPackCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D5B2963307E0079DE61 /* LimitedPackCollectionViewCell.swift */; };
+		17AB1D5E296385C30079DE61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17AB1D5D296385C30079DE61 /* GoogleService-Info.plist */; };
+		17AB1D6129649D270079DE61 /* SignInPopup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D6029649D270079DE61 /* SignInPopup.swift */; };
+		17AB1D632965EB5D0079DE61 /* ShadowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D622965EB5D0079DE61 /* ShadowImageView.swift */; };
+		17AB1D65296632290079DE61 /* LimitedCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17AB1D64296632290079DE61 /* LimitedCollectionCell.xib */; };
+		17AB1D672967371C0079DE61 /* PaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D662967371C0079DE61 /* PaddingLabel.swift */; };
+		17AB1D70296A56160079DE61 /* VarietyPackCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB1D6F296A56160079DE61 /* VarietyPackCollectionViewCell.swift */; };
+		17AB1D72296A562E0079DE61 /* VarietyPackCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17AB1D71296A562E0079DE61 /* VarietyPackCell.xib */; };
+		17BFECF12974A73E005B82C0 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17BFECF02974A73E005B82C0 /* StoreKit.framework */; };
+		17BFECF32974D725005B82C0 /* PackSizePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BFECF22974D725005B82C0 /* PackSizePopUp.swift */; };
+		17BFECF62975C490005B82C0 /* TrainAIImagesPopup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BFECF52975C490005B82C0 /* TrainAIImagesPopup.swift */; };
+		2E19E60EBA9442598BA3CA8E /* Pods_AI_Pet_App.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B26D706836509F7FDE4A0ECE /* Pods_AI_Pet_App.framework */; };
+		788F1346D4BCE522644981DA /* Pods_AI_Pet_AppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E73227A5ADF3B5425863221 /* Pods_AI_Pet_AppTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,10 +86,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0BDAC455EDF3C434719C3B6D /* Pods_AI_Pet_App_AI_Pet_AppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AI_Pet_App_AI_Pet_AppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1746A30529786C9A006DF4EF /* bad_1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = bad_1.tiff; sourceTree = "<group>"; };
+		1746A30729786CCB006DF4EF /* good_2.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = good_2.tiff; sourceTree = "<group>"; };
+		1746A30929786CEF006DF4EF /* bad_2.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = bad_2.heic; sourceTree = "<group>"; };
+		1746A30A29786D00006DF4EF /* bad_4.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = bad_4.heic; sourceTree = "<group>"; };
+		1746A30B29786D23006DF4EF /* good_3.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = good_3.tiff; sourceTree = "<group>"; };
+		1746A30D29786D33006DF4EF /* good_4.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = good_4.tiff; sourceTree = "<group>"; };
+		1746A30F29786D56006DF4EF /* good_1.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = good_1.heic; sourceTree = "<group>"; };
+		1746A3102978727B006DF4EF /* bad_3.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = bad_3.heic; sourceTree = "<group>"; };
+		1746A311297872E3006DF4EF /* good_5.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = good_5.heic; sourceTree = "<group>"; };
+		1746A313297874F8006DF4EF /* good_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = good_6.png; sourceTree = "<group>"; };
+		1746A3152978ADB2006DF4EF /* good_7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = good_7.jpeg; sourceTree = "<group>"; };
+		1746A3172978AE07006DF4EF /* good_8.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = good_8.webp; sourceTree = "<group>"; };
+		1746A3182978AE32006DF4EF /* good_9.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = good_9.webp; sourceTree = "<group>"; };
+		1746A3192978FE88006DF4EF /* PawPrints.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = PawPrints.storekit; sourceTree = "<group>"; };
+		175DEEAE297BA9620083FFFE /* cosmothegoat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cosmothegoat.JPG; sourceTree = "<group>"; };
+		178ECC4A296E59BE00171673 /* OrderTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OrderTableViewCell.xib; sourceTree = "<group>"; };
+		178ECC4C296E5E1E00171673 /* IMG_0892.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = IMG_0892.tiff; sourceTree = "<group>"; };
+		178ECC4E296E659400171673 /* IMG_3580.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = IMG_3580.tiff; sourceTree = "<group>"; };
+		178ECC50296E68FD00171673 /* StepBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepBar.swift; sourceTree = "<group>"; };
 		179686FD29627692002BAE79 /* AI-Pet-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AI-Pet-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1796870029627692002BAE79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1796870229627692002BAE79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1796870429627692002BAE79 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1796870729627692002BAE79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1796870A29627692002BAE79 /* AI_Pet_App.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AI_Pet_App.xcdatamodel; sourceTree = "<group>"; };
 		1796870C29627694002BAE79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +119,49 @@
 		1796872029627694002BAE79 /* AI-Pet-AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AI-Pet-AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1796872429627694002BAE79 /* AI_Pet_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AI_Pet_AppUITests.swift; sourceTree = "<group>"; };
 		1796872629627694002BAE79 /* AI_Pet_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AI_Pet_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		17968734296282CB002BAE79 /* Packs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Packs.png; sourceTree = "<group>"; };
+		17968735296282CB002BAE79 /* pawdprint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pawdprint.png; sourceTree = "<group>"; };
+		17968736296282CB002BAE79 /* YourGallery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YourGallery.png; sourceTree = "<group>"; };
+		1796873B29628771002BAE79 /* UIExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIExtensions.swift; sourceTree = "<group>"; };
+		1796874C29629F15002BAE79 /* small_paw_filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = small_paw_filled.png; sourceTree = "<group>"; };
+		1796874D29629F15002BAE79 /* small_paw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = small_paw.png; sourceTree = "<group>"; };
+		1796875229629F4E002BAE79 /* Autolayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Autolayout.swift; sourceTree = "<group>"; };
+		1796875329629F4E002BAE79 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1796875429629F4E002BAE79 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		1796875529629F4E002BAE79 /* PushViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushViewController.swift; sourceTree = "<group>"; };
+		1796875629629F4E002BAE79 /* FloatingBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingBarView.swift; sourceTree = "<group>"; };
+		1796875729629F4E002BAE79 /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		1796875F29632889002BAE79 /* UIWindow+DebugStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIWindow+DebugStyle.swift"; sourceTree = "<group>"; };
+		1796876029632889002BAE79 /* UIView+DebugStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+DebugStyle.swift"; sourceTree = "<group>"; };
+		1796876429632952002BAE79 /* LimitedPack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LimitedPack.swift; sourceTree = "<group>"; };
+		1796876629632959002BAE79 /* VarietyPack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VarietyPack.swift; sourceTree = "<group>"; };
+		17968768296329CB002BAE79 /* AIResultImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIResultImage.swift; sourceTree = "<group>"; };
+		1796876A29632A0F002BAE79 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		17AB1D4E29632D210079DE61 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		17AB1D5029632D2A0079DE61 /* OrdersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrdersViewController.swift; sourceTree = "<group>"; };
+		17AB1D5229632D350079DE61 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		17AB1D5429632D3F0079DE61 /* PackViewerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackViewerViewController.swift; sourceTree = "<group>"; };
+		17AB1D5629632D480079DE61 /* OrderViewerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewerViewController.swift; sourceTree = "<group>"; };
+		17AB1D59296330720079DE61 /* OrderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewCell.swift; sourceTree = "<group>"; };
+		17AB1D5B2963307E0079DE61 /* LimitedPackCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LimitedPackCollectionViewCell.swift; sourceTree = "<group>"; };
+		17AB1D5D296385C30079DE61 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		17AB1D6029649D270079DE61 /* SignInPopup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInPopup.swift; sourceTree = "<group>"; };
+		17AB1D622965EB5D0079DE61 /* ShadowImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowImageView.swift; sourceTree = "<group>"; };
+		17AB1D64296632290079DE61 /* LimitedCollectionCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LimitedCollectionCell.xib; sourceTree = "<group>"; };
+		17AB1D662967371C0079DE61 /* PaddingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLabel.swift; sourceTree = "<group>"; };
+		17AB1D6F296A56160079DE61 /* VarietyPackCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VarietyPackCollectionViewCell.swift; sourceTree = "<group>"; };
+		17AB1D71296A562E0079DE61 /* VarietyPackCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VarietyPackCell.xib; sourceTree = "<group>"; };
+		17BFECF02974A73E005B82C0 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		17BFECF22974D725005B82C0 /* PackSizePopUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackSizePopUp.swift; sourceTree = "<group>"; };
+		17BFECF52975C490005B82C0 /* TrainAIImagesPopup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainAIImagesPopup.swift; sourceTree = "<group>"; };
+		2ADE047022F125ABCA7D0861 /* Pods-AI-Pet-AppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-AppTests.release.xcconfig"; path = "Target Support Files/Pods-AI-Pet-AppTests/Pods-AI-Pet-AppTests.release.xcconfig"; sourceTree = "<group>"; };
+		2D165D0C1CEA8E8F005927BA /* Pods-AI-Pet-AppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-AppTests.debug.xcconfig"; path = "Target Support Files/Pods-AI-Pet-AppTests/Pods-AI-Pet-AppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4E73227A5ADF3B5425863221 /* Pods_AI_Pet_AppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AI_Pet_AppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD94900E24F42505D00304B8 /* Pods-AI-Pet-App-AI-Pet-AppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-App-AI-Pet-AppUITests.debug.xcconfig"; path = "Target Support Files/Pods-AI-Pet-App-AI-Pet-AppUITests/Pods-AI-Pet-App-AI-Pet-AppUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		B26D706836509F7FDE4A0ECE /* Pods_AI_Pet_App.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AI_Pet_App.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA2EFA32675928F3FBE143C3 /* Pods-AI-Pet-App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-App.release.xcconfig"; path = "Target Support Files/Pods-AI-Pet-App/Pods-AI-Pet-App.release.xcconfig"; sourceTree = "<group>"; };
+		E5949A8E2B479645CA1C3CA6 /* Pods-AI-Pet-App-AI-Pet-AppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-App-AI-Pet-AppUITests.release.xcconfig"; path = "Target Support Files/Pods-AI-Pet-App-AI-Pet-AppUITests/Pods-AI-Pet-App-AI-Pet-AppUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FBB8B7CEFB037F8B5DE5675C /* Pods-AI-Pet-App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI-Pet-App.debug.xcconfig"; path = "Target Support Files/Pods-AI-Pet-App/Pods-AI-Pet-App.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +169,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E19E60EBA9442598BA3CA8E /* Pods_AI_Pet_App.framework in Frameworks */,
+				17BFECF12974A73E005B82C0 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +178,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				788F1346D4BCE522644981DA /* Pods_AI_Pet_AppTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +186,34 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F293CD2C48253300D1546F0 /* Pods_AI_Pet_App_AI_Pet_AppUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1746A30429786C7D006DF4EF /* Good and Bad image examples */ = {
+			isa = PBXGroup;
+			children = (
+				1746A30F29786D56006DF4EF /* good_1.heic */,
+				1746A30D29786D33006DF4EF /* good_4.tiff */,
+				1746A30729786CCB006DF4EF /* good_2.tiff */,
+				1746A30529786C9A006DF4EF /* bad_1.tiff */,
+				1746A30929786CEF006DF4EF /* bad_2.heic */,
+				1746A30A29786D00006DF4EF /* bad_4.heic */,
+				1746A30B29786D23006DF4EF /* good_3.tiff */,
+				1746A3102978727B006DF4EF /* bad_3.heic */,
+				1746A311297872E3006DF4EF /* good_5.heic */,
+				1746A313297874F8006DF4EF /* good_6.png */,
+				1746A3152978ADB2006DF4EF /* good_7.jpeg */,
+				1746A3172978AE07006DF4EF /* good_8.webp */,
+				1746A3182978AE32006DF4EF /* good_9.webp */,
+				175DEEAE297BA9620083FFFE /* cosmothegoat.JPG */,
+			);
+			path = "Good and Bad image examples";
+			sourceTree = "<group>";
+		};
 		179686F429627692002BAE79 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +221,8 @@
 				1796871929627694002BAE79 /* AI-Pet-AppTests */,
 				1796872329627694002BAE79 /* AI-Pet-AppUITests */,
 				179686FE29627692002BAE79 /* Products */,
+				866AD91D0921AB4CFF681293 /* Pods */,
+				BA08DFDA56E4361E54163FED /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,14 +239,22 @@
 		179686FF29627692002BAE79 /* AI-Pet-App */ = {
 			isa = PBXGroup;
 			children = (
+				17AB1D5D296385C30079DE61 /* GoogleService-Info.plist */,
+				17AB1D582963305D0079DE61 /* Table + Collection Cells */,
+				17AB1D4D29632D0E0079DE61 /* ViewControllers */,
+				1796876329632935002BAE79 /* Classes */,
+				1796875E29632889002BAE79 /* debug */,
+				1796875129629F4E002BAE79 /* Controller */,
+				1796873A29628766002BAE79 /* Extensions */,
+				17968733296282B8002BAE79 /* Resources */,
 				1796870029627692002BAE79 /* AppDelegate.swift */,
 				1796870229627692002BAE79 /* SceneDelegate.swift */,
-				1796870429627692002BAE79 /* ViewController.swift */,
 				1796870629627692002BAE79 /* Main.storyboard */,
 				1796870C29627694002BAE79 /* Assets.xcassets */,
 				1796870E29627694002BAE79 /* LaunchScreen.storyboard */,
 				1796871129627694002BAE79 /* Info.plist */,
 				1796870929627692002BAE79 /* AI_Pet_App.xcdatamodeld */,
+				1746A3192978FE88006DF4EF /* PawPrints.storekit */,
 			);
 			path = "AI-Pet-App";
 			sourceTree = "<group>";
@@ -130,6 +276,125 @@
 			path = "AI-Pet-AppUITests";
 			sourceTree = "<group>";
 		};
+		17968733296282B8002BAE79 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1746A30429786C7D006DF4EF /* Good and Bad image examples */,
+				178ECC4E296E659400171673 /* IMG_3580.tiff */,
+				178ECC4C296E5E1E00171673 /* IMG_0892.tiff */,
+				17968734296282CB002BAE79 /* Packs.png */,
+				17968735296282CB002BAE79 /* pawdprint.png */,
+				1796874C29629F15002BAE79 /* small_paw_filled.png */,
+				1796874D29629F15002BAE79 /* small_paw.png */,
+				17968736296282CB002BAE79 /* YourGallery.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1796873A29628766002BAE79 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1796873B29628771002BAE79 /* UIExtensions.swift */,
+				17AB1D622965EB5D0079DE61 /* ShadowImageView.swift */,
+				17AB1D662967371C0079DE61 /* PaddingLabel.swift */,
+				178ECC50296E68FD00171673 /* StepBar.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		1796875129629F4E002BAE79 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1796875229629F4E002BAE79 /* Autolayout.swift */,
+				1796875429629F4E002BAE79 /* BaseViewController.swift */,
+				1796875529629F4E002BAE79 /* PushViewController.swift */,
+				1796875629629F4E002BAE79 /* FloatingBarView.swift */,
+				1796875729629F4E002BAE79 /* TabBarController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		1796875E29632889002BAE79 /* debug */ = {
+			isa = PBXGroup;
+			children = (
+				1796875F29632889002BAE79 /* UIWindow+DebugStyle.swift */,
+				1796876029632889002BAE79 /* UIView+DebugStyle.swift */,
+			);
+			path = debug;
+			sourceTree = "<group>";
+		};
+		1796876329632935002BAE79 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1796876429632952002BAE79 /* LimitedPack.swift */,
+				1796876629632959002BAE79 /* VarietyPack.swift */,
+				17968768296329CB002BAE79 /* AIResultImage.swift */,
+				1796876A29632A0F002BAE79 /* Order.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		17AB1D4D29632D0E0079DE61 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				17AB1D5F29649D1C0079DE61 /* Popups */,
+				1796875329629F4E002BAE79 /* ViewController.swift */,
+				17AB1D4E29632D210079DE61 /* SearchViewController.swift */,
+				17AB1D5029632D2A0079DE61 /* OrdersViewController.swift */,
+				17AB1D5229632D350079DE61 /* SettingsViewController.swift */,
+				17AB1D5429632D3F0079DE61 /* PackViewerViewController.swift */,
+				17AB1D5629632D480079DE61 /* OrderViewerViewController.swift */,
+				17BFECF52975C490005B82C0 /* TrainAIImagesPopup.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		17AB1D582963305D0079DE61 /* Table + Collection Cells */ = {
+			isa = PBXGroup;
+			children = (
+				17AB1D5B2963307E0079DE61 /* LimitedPackCollectionViewCell.swift */,
+				17AB1D64296632290079DE61 /* LimitedCollectionCell.xib */,
+				17AB1D6F296A56160079DE61 /* VarietyPackCollectionViewCell.swift */,
+				17AB1D71296A562E0079DE61 /* VarietyPackCell.xib */,
+				17AB1D59296330720079DE61 /* OrderTableViewCell.swift */,
+				178ECC4A296E59BE00171673 /* OrderTableViewCell.xib */,
+			);
+			path = "Table + Collection Cells";
+			sourceTree = "<group>";
+		};
+		17AB1D5F29649D1C0079DE61 /* Popups */ = {
+			isa = PBXGroup;
+			children = (
+				17AB1D6029649D270079DE61 /* SignInPopup.swift */,
+				17BFECF22974D725005B82C0 /* PackSizePopUp.swift */,
+			);
+			path = Popups;
+			sourceTree = "<group>";
+		};
+		866AD91D0921AB4CFF681293 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FBB8B7CEFB037F8B5DE5675C /* Pods-AI-Pet-App.debug.xcconfig */,
+				DA2EFA32675928F3FBE143C3 /* Pods-AI-Pet-App.release.xcconfig */,
+				AD94900E24F42505D00304B8 /* Pods-AI-Pet-App-AI-Pet-AppUITests.debug.xcconfig */,
+				E5949A8E2B479645CA1C3CA6 /* Pods-AI-Pet-App-AI-Pet-AppUITests.release.xcconfig */,
+				2D165D0C1CEA8E8F005927BA /* Pods-AI-Pet-AppTests.debug.xcconfig */,
+				2ADE047022F125ABCA7D0861 /* Pods-AI-Pet-AppTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		BA08DFDA56E4361E54163FED /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17BFECF02974A73E005B82C0 /* StoreKit.framework */,
+				B26D706836509F7FDE4A0ECE /* Pods_AI_Pet_App.framework */,
+				0BDAC455EDF3C434719C3B6D /* Pods_AI_Pet_App_AI_Pet_AppUITests.framework */,
+				4E73227A5ADF3B5425863221 /* Pods_AI_Pet_AppTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -137,9 +402,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1796872A29627694002BAE79 /* Build configuration list for PBXNativeTarget "AI-Pet-App" */;
 			buildPhases = (
+				4E0F075144CBC56736B1D72A /* [CP] Check Pods Manifest.lock */,
 				179686F929627692002BAE79 /* Sources */,
 				179686FA29627692002BAE79 /* Frameworks */,
 				179686FB29627692002BAE79 /* Resources */,
+				9740C3E06AEA0323BADEE9BC /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -154,6 +421,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1796872D29627694002BAE79 /* Build configuration list for PBXNativeTarget "AI-Pet-AppTests" */;
 			buildPhases = (
+				E385F1AB603B42B955F49E96 /* [CP] Check Pods Manifest.lock */,
 				1796871229627694002BAE79 /* Sources */,
 				1796871329627694002BAE79 /* Frameworks */,
 				1796871429627694002BAE79 /* Resources */,
@@ -172,9 +440,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1796873029627694002BAE79 /* Build configuration list for PBXNativeTarget "AI-Pet-AppUITests" */;
 			buildPhases = (
+				EA304F6989497BAB392CBBBA /* [CP] Check Pods Manifest.lock */,
 				1796871C29627694002BAE79 /* Sources */,
 				1796871D29627694002BAE79 /* Frameworks */,
 				1796871E29627694002BAE79 /* Resources */,
+				B92B5C63DF43477AAC4355F3 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -234,9 +504,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1746A30629786C9A006DF4EF /* bad_1.tiff in Resources */,
 				1796871029627694002BAE79 /* LaunchScreen.storyboard in Resources */,
+				17968738296282CC002BAE79 /* pawdprint.png in Resources */,
 				1796870D29627694002BAE79 /* Assets.xcassets in Resources */,
+				17AB1D72296A562E0079DE61 /* VarietyPackCell.xib in Resources */,
+				1746A30829786CCB006DF4EF /* good_2.tiff in Resources */,
+				17968737296282CC002BAE79 /* Packs.png in Resources */,
 				1796870829627692002BAE79 /* Main.storyboard in Resources */,
+				1746A30E29786D33006DF4EF /* good_4.tiff in Resources */,
+				178ECC4F296E659400171673 /* IMG_3580.tiff in Resources */,
+				1746A31A2978FE88006DF4EF /* PawPrints.storekit in Resources */,
+				178ECC4B296E59BE00171673 /* OrderTableViewCell.xib in Resources */,
+				1796874F29629F15002BAE79 /* small_paw_filled.png in Resources */,
+				17AB1D65296632290079DE61 /* LimitedCollectionCell.xib in Resources */,
+				17AB1D5E296385C30079DE61 /* GoogleService-Info.plist in Resources */,
+				178ECC4D296E5E1E00171673 /* IMG_0892.tiff in Resources */,
+				1746A314297874F8006DF4EF /* good_6.png in Resources */,
+				1796875029629F15002BAE79 /* small_paw.png in Resources */,
+				1746A30C29786D23006DF4EF /* good_3.tiff in Resources */,
+				1746A3162978ADB3006DF4EF /* good_7.jpeg in Resources */,
+				175DEEAF297BA9620083FFFE /* cosmothegoat.JPG in Resources */,
+				17968739296282CC002BAE79 /* YourGallery.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,14 +545,143 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4E0F075144CBC56736B1D72A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AI-Pet-App-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9740C3E06AEA0323BADEE9BC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App/Pods-AI-Pet-App-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App/Pods-AI-Pet-App-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App/Pods-AI-Pet-App-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B92B5C63DF43477AAC4355F3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App-AI-Pet-AppUITests/Pods-AI-Pet-App-AI-Pet-AppUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App-AI-Pet-AppUITests/Pods-AI-Pet-App-AI-Pet-AppUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AI-Pet-App-AI-Pet-AppUITests/Pods-AI-Pet-App-AI-Pet-AppUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E385F1AB603B42B955F49E96 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AI-Pet-AppTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EA304F6989497BAB392CBBBA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AI-Pet-App-AI-Pet-AppUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		179686F929627692002BAE79 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1796870529627692002BAE79 /* ViewController.swift in Sources */,
 				1796870B29627692002BAE79 /* AI_Pet_App.xcdatamodeld in Sources */,
+				1796876529632952002BAE79 /* LimitedPack.swift in Sources */,
+				1796876B29632A0F002BAE79 /* Order.swift in Sources */,
+				17AB1D632965EB5D0079DE61 /* ShadowImageView.swift in Sources */,
+				17AB1D4F29632D210079DE61 /* SearchViewController.swift in Sources */,
+				1796875D29629F4E002BAE79 /* TabBarController.swift in Sources */,
+				17AB1D5329632D350079DE61 /* SettingsViewController.swift in Sources */,
+				17BFECF62975C490005B82C0 /* TrainAIImagesPopup.swift in Sources */,
+				1796875C29629F4E002BAE79 /* FloatingBarView.swift in Sources */,
+				17968769296329CB002BAE79 /* AIResultImage.swift in Sources */,
+				178ECC51296E68FD00171673 /* StepBar.swift in Sources */,
+				1796875829629F4E002BAE79 /* Autolayout.swift in Sources */,
+				17AB1D672967371C0079DE61 /* PaddingLabel.swift in Sources */,
+				17AB1D5529632D3F0079DE61 /* PackViewerViewController.swift in Sources */,
 				1796870129627692002BAE79 /* AppDelegate.swift in Sources */,
+				1796875929629F4E002BAE79 /* ViewController.swift in Sources */,
+				1796876229632889002BAE79 /* UIView+DebugStyle.swift in Sources */,
+				1796876129632889002BAE79 /* UIWindow+DebugStyle.swift in Sources */,
+				17AB1D5729632D480079DE61 /* OrderViewerViewController.swift in Sources */,
+				1796875B29629F4E002BAE79 /* PushViewController.swift in Sources */,
+				17AB1D6129649D270079DE61 /* SignInPopup.swift in Sources */,
+				17AB1D70296A56160079DE61 /* VarietyPackCollectionViewCell.swift in Sources */,
+				17AB1D5A296330720079DE61 /* OrderTableViewCell.swift in Sources */,
+				17AB1D5129632D2A0079DE61 /* OrdersViewController.swift in Sources */,
+				1796875A29629F4E002BAE79 /* BaseViewController.swift in Sources */,
+				17BFECF32974D725005B82C0 /* PackSizePopUp.swift in Sources */,
+				1796876729632959002BAE79 /* VarietyPack.swift in Sources */,
+				17AB1D5C2963307E0079DE61 /* LimitedPackCollectionViewCell.swift in Sources */,
+				1796873C29628771002BAE79 /* UIExtensions.swift in Sources */,
 				1796870329627692002BAE79 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -436,6 +854,7 @@
 		};
 		1796872B29627694002BAE79 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FBB8B7CEFB037F8B5DE5675C /* Pods-AI-Pet-App.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -444,11 +863,14 @@
 				DEVELOPMENT_TEAM = 4SSQ3NUFVX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AI-Pet-App/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PawPrints AI";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -456,14 +878,18 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.caliwood.AI-Pet-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		1796872C29627694002BAE79 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA2EFA32675928F3FBE143C3 /* Pods-AI-Pet-App.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -472,11 +898,14 @@
 				DEVELOPMENT_TEAM = 4SSQ3NUFVX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AI-Pet-App/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PawPrints AI";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -484,14 +913,18 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.caliwood.AI-Pet-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		1796872E29627694002BAE79 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D165D0C1CEA8E8F005927BA /* Pods-AI-Pet-AppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -512,6 +945,7 @@
 		};
 		1796872F29627694002BAE79 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2ADE047022F125ABCA7D0861 /* Pods-AI-Pet-AppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -532,6 +966,7 @@
 		};
 		1796873129627694002BAE79 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AD94900E24F42505D00304B8 /* Pods-AI-Pet-App-AI-Pet-AppUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -550,6 +985,7 @@
 		};
 		1796873229627694002BAE79 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E5949A8E2B479645CA1C3CA6 /* Pods-AI-Pet-App-AI-Pet-AppUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
